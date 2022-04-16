@@ -1,3 +1,3 @@
-# Template for OpenGL projects using GLFW
-Start out your projects with a window, opengl context, and a settings file.
+# Desktop Generator
+Generate a triangle tesselation to be used as your desktop background.
 
